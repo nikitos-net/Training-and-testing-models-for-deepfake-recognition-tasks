@@ -1,0 +1,441 @@
+[
+  {
+    "combination": [
+      "VGG16"
+    ],
+    "combination_str": "VGG16",
+    "n_models": 1,
+    "accuracy": 0.9205723843151831,
+    "thresholds": [
+      0.20039352774620056
+    ]
+  },
+  {
+    "combination": [
+      "MobileNetV2",
+      "ResNetV2",
+      "VGG16"
+    ],
+    "combination_str": "MobileNetV2+ResNetV2+VGG16",
+    "n_models": 3,
+    "accuracy": 0.8936814718453819,
+    "thresholds": [
+      0.9753771424293518,
+      0.9711860418319702,
+      0.20039352774620056
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3",
+      "ResNetV2",
+      "VGG16"
+    ],
+    "combination_str": "InceptionV3+ResNetV2+VGG16",
+    "n_models": 3,
+    "accuracy": 0.8925664374651552,
+    "thresholds": [
+      0.9740290641784668,
+      0.9711860418319702,
+      0.20039352774620056
+    ]
+  },
+  {
+    "combination": [
+      "ResNetV2",
+      "VGG16",
+      "Xception"
+    ],
+    "combination_str": "ResNetV2+VGG16+Xception",
+    "n_models": 3,
+    "accuracy": 0.8844452703958372,
+    "thresholds": [
+      0.9711860418319702,
+      0.20039352774620056,
+      0.9345436692237854
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3",
+      "ResNetV2",
+      "VGG16",
+      "Xception"
+    ],
+    "combination_str": "InceptionV3+ResNetV2+VGG16+Xception",
+    "n_models": 4,
+    "accuracy": 0.8742612897230998,
+    "thresholds": [
+      0.9740290641784668,
+      0.9711860418319702,
+      0.20039352774620056,
+      0.9345436692237854
+    ]
+  },
+  {
+    "combination": [
+      "ResNetV2",
+      "VGG16"
+    ],
+    "combination_str": "ResNetV2+VGG16",
+    "n_models": 2,
+    "accuracy": 0.8683330236015611,
+    "thresholds": [
+      0.9711860418319702,
+      0.20039352774620056
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3",
+      "MobileNetV2",
+      "ResNetV2",
+      "VGG16"
+    ],
+    "combination_str": "InceptionV3+MobileNetV2+ResNetV2+VGG16",
+    "n_models": 4,
+    "accuracy": 0.8656383571826798,
+    "thresholds": [
+      0.9740290641784668,
+      0.9753771424293518,
+      0.9711860418319702,
+      0.20039352774620056
+    ]
+  },
+  {
+    "combination": [
+      "MobileNetV2",
+      "ResNetV2",
+      "VGG16",
+      "Xception"
+    ],
+    "combination_str": "MobileNetV2+ResNetV2+VGG16+Xception",
+    "n_models": 4,
+    "accuracy": 0.8622560862293254,
+    "thresholds": [
+      0.9753771424293518,
+      0.9711860418319702,
+      0.20039352774620056,
+      0.9345436692237854
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3",
+      "MobileNetV2",
+      "ResNetV2",
+      "VGG16",
+      "Xception"
+    ],
+    "combination_str": "InceptionV3+MobileNetV2+ResNetV2+VGG16+Xception",
+    "n_models": 5,
+    "accuracy": 0.8615498977885151,
+    "thresholds": [
+      0.9740290641784668,
+      0.9753771424293518,
+      0.9711860418319702,
+      0.20039352774620056,
+      0.9345436692237854
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3",
+      "MobileNetV2",
+      "VGG16"
+    ],
+    "combination_str": "InceptionV3+MobileNetV2+VGG16",
+    "n_models": 3,
+    "accuracy": 0.849414606950381,
+    "thresholds": [
+      0.9740290641784668,
+      0.9753771424293518,
+      0.20039352774620056
+    ]
+  },
+  {
+    "combination": [
+      "MobileNetV2",
+      "VGG16",
+      "Xception"
+    ],
+    "combination_str": "MobileNetV2+VGG16+Xception",
+    "n_models": 3,
+    "accuracy": 0.8468686117821966,
+    "thresholds": [
+      0.9753771424293518,
+      0.20039352774620056,
+      0.9345436692237854
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3",
+      "VGG16",
+      "Xception"
+    ],
+    "combination_str": "InceptionV3+VGG16+Xception",
+    "n_models": 3,
+    "accuracy": 0.8354209254785356,
+    "thresholds": [
+      0.9740290641784668,
+      0.20039352774620056,
+      0.9345436692237854
+    ]
+  },
+  {
+    "combination": [
+      "VGG16",
+      "Xception"
+    ],
+    "combination_str": "VGG16+Xception",
+    "n_models": 2,
+    "accuracy": 0.8342129715666233,
+    "thresholds": [
+      0.20039352774620056,
+      0.9345436692237854
+    ]
+  },
+  {
+    "combination": [
+      "MobileNetV2",
+      "VGG16"
+    ],
+    "combination_str": "MobileNetV2+VGG16",
+    "n_models": 2,
+    "accuracy": 0.8336554543765099,
+    "thresholds": [
+      0.9753771424293518,
+      0.20039352774620056
+    ]
+  },
+  {
+    "combination": [
+      "ResNetV2"
+    ],
+    "combination_str": "ResNetV2",
+    "n_models": 1,
+    "accuracy": 0.8311094592083256,
+    "thresholds": [
+      0.9711860418319702
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3",
+      "MobileNetV2",
+      "VGG16",
+      "Xception"
+    ],
+    "combination_str": "InceptionV3+MobileNetV2+VGG16+Xception",
+    "n_models": 4,
+    "accuracy": 0.8307377810815834,
+    "thresholds": [
+      0.9740290641784668,
+      0.9753771424293518,
+      0.20039352774620056,
+      0.9345436692237854
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3",
+      "VGG16"
+    ],
+    "combination_str": "InceptionV3+VGG16",
+    "n_models": 2,
+    "accuracy": 0.8216688347890727,
+    "thresholds": [
+      0.9740290641784668,
+      0.20039352774620056
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3",
+      "MobileNetV2",
+      "ResNetV2"
+    ],
+    "combination_str": "InceptionV3+MobileNetV2+ResNetV2",
+    "n_models": 3,
+    "accuracy": 0.8081583348819922,
+    "thresholds": [
+      0.9740290641784668,
+      0.9753771424293518,
+      0.9711860418319702
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3",
+      "ResNetV2",
+      "Xception"
+    ],
+    "combination_str": "InceptionV3+ResNetV2+Xception",
+    "n_models": 3,
+    "accuracy": 0.803140680170972,
+    "thresholds": [
+      0.9740290641784668,
+      0.9711860418319702,
+      0.9345436692237854
+    ]
+  },
+  {
+    "combination": [
+      "MobileNetV2",
+      "ResNetV2",
+      "Xception"
+    ],
+    "combination_str": "MobileNetV2+ResNetV2+Xception",
+    "n_models": 3,
+    "accuracy": 0.7971194945177477,
+    "thresholds": [
+      0.9753771424293518,
+      0.9711860418319702,
+      0.9345436692237854
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3",
+      "MobileNetV2",
+      "ResNetV2",
+      "Xception"
+    ],
+    "combination_str": "InceptionV3+MobileNetV2+ResNetV2+Xception",
+    "n_models": 4,
+    "accuracy": 0.7966363129529828,
+    "thresholds": [
+      0.9740290641784668,
+      0.9753771424293518,
+      0.9711860418319702,
+      0.9345436692237854
+    ]
+  },
+  {
+    "combination": [
+      "ResNetV2",
+      "Xception"
+    ],
+    "combination_str": "ResNetV2+Xception",
+    "n_models": 2,
+    "accuracy": 0.7770302917673295,
+    "thresholds": [
+      0.9711860418319702,
+      0.9345436692237854
+    ]
+  },
+  {
+    "combination": [
+      "MobileNetV2",
+      "ResNetV2"
+    ],
+    "combination_str": "MobileNetV2+ResNetV2",
+    "n_models": 2,
+    "accuracy": 0.7768630366102954,
+    "thresholds": [
+      0.9753771424293518,
+      0.9711860418319702
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3",
+      "ResNetV2"
+    ],
+    "combination_str": "InceptionV3+ResNetV2",
+    "n_models": 2,
+    "accuracy": 0.7617914885708976,
+    "thresholds": [
+      0.9740290641784668,
+      0.9711860418319702
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3",
+      "MobileNetV2",
+      "Xception"
+    ],
+    "combination_str": "InceptionV3+MobileNetV2+Xception",
+    "n_models": 3,
+    "accuracy": 0.7506225608622933,
+    "thresholds": [
+      0.9740290641784668,
+      0.9753771424293518,
+      0.9345436692237854
+    ]
+  },
+  {
+    "combination": [
+      "MobileNetV2"
+    ],
+    "combination_str": "MobileNetV2",
+    "n_models": 1,
+    "accuracy": 0.736498792046088,
+    "thresholds": [
+      0.9753771424293518
+    ]
+  },
+  {
+    "combination": [
+      "MobileNetV2",
+      "Xception"
+    ],
+    "combination_str": "MobileNetV2+Xception",
+    "n_models": 2,
+    "accuracy": 0.7222077680728489,
+    "thresholds": [
+      0.9753771424293518,
+      0.9345436692237854
+    ]
+  },
+  {
+    "combination": [
+      "Xception"
+    ],
+    "combination_str": "Xception",
+    "n_models": 1,
+    "accuracy": 0.7095335439509385,
+    "thresholds": [
+      0.9345436692237854
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3",
+      "MobileNetV2"
+    ],
+    "combination_str": "InceptionV3+MobileNetV2",
+    "n_models": 2,
+    "accuracy": 0.6970451588923992,
+    "thresholds": [
+      0.9740290641784668,
+      0.9753771424293518
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3"
+    ],
+    "combination_str": "InceptionV3",
+    "n_models": 1,
+    "accuracy": 0.689723099795577,
+    "thresholds": [
+      0.9740290641784668
+    ]
+  },
+  {
+    "combination": [
+      "InceptionV3",
+      "Xception"
+    ],
+    "combination_str": "InceptionV3+Xception",
+    "n_models": 2,
+    "accuracy": 0.6810072477234714,
+    "thresholds": [
+      0.9740290641784668,
+      0.9345436692237854
+    ]
+  }
+]

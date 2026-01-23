@@ -1,0 +1,23 @@
+{
+  "total_combinations": 31,
+  "best_accuracy": 0.9205723843151831,
+  "best_combination": "VGG16",
+  "models_in_best": 1,
+  "worst_accuracy": 0.6810072477234714,
+  "mean_accuracy": 0.8101216346643808,
+  "median_accuracy": 0.8307377810815834,
+  "model_thresholds": {
+    "InceptionV3": 0.9740290641784668,
+    "MobileNetV2": 0.9753771424293518,
+    "ResNetV2": 0.9711860418319702,
+    "VGG16": 0.20039352774620056,
+    "Xception": 0.9345436692237854
+  },
+  "individual_accuracies": {
+    "InceptionV3": 0.689723099795577,
+    "MobileNetV2": 0.736498792046088,
+    "ResNetV2": 0.8311094592083256,
+    "VGG16": 0.9205723843151831,
+    "Xception": 0.7095335439509385
+  }
+}
